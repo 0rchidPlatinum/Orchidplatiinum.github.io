@@ -1,1 +1,1 @@
-# Orchidplatiinum.github.io
+# Orchidplatiinum
