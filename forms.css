@@ -1,0 +1,40 @@
+/* RESET STYLESHEET */
+ 
+* {  margin: 0;
+    padding:0;
+    border: 0;
+}
+/* FORM */
+form{ outline: 3px solid cornflowerblue;
+    width: 32%;
+    margin: auto;
+    background-color:#818eba;
+
+    align-items:center;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5%;
+}
+
+form h2 {
+    background-color: #2d3142;
+    color: aliceblue;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 200px;
+    
+
+}
+input [type=text] {
+    padding: 4px;
+    border-radius: 10px;
+}
+input {background-color: #c3ceff; 
+color: #2d3142;}
+
+p{color: #c3ceff;
+background-color: #2d3142;}
+
+
+b {color: #c3ceff;}
